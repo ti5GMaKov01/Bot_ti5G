@@ -1,3 +1,1 @@
-# ti5G_Discord_BOT
-# ti5G_Discord_BOT
-# ti5G_Discord_BOT
+# ti5G_bot del team de eSports
